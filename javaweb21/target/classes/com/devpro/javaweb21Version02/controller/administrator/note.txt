@@ -1,0 +1,3 @@
+Các controller trong package Adminitrator phải có tiền tố Admin. VD: AdminHomeController
+
+Các request mapping cũng cần phải có tiền tố

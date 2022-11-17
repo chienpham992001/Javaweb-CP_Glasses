@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Asus
+Build-Jdk: 18.0.2
+Implementation-Title: Maven Spring Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.devpro
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/javaweb21Version02
+Created-By: Maven Integration for Eclipse
+
